@@ -51,7 +51,7 @@ nav a:hover {
     text-align: justify;
 } 
 
-@media  screen and  (max-width: 768px){
+@media (max-width: 600px){
    .journaling-banner-image {
     width: 100%;
    }
