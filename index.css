@@ -168,3 +168,8 @@ button:hover {
     }
 }
     
+@media  screen and  (max-width: 768px){
+    .banner-container {
+        height:auto;
+    }
+}
