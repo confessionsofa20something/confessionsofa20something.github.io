@@ -49,10 +49,12 @@ nav a {
     background: #FDECD5;
 }
 
-.banner-image {
-    border-radius: 4px;
-    height: 100%;
-    max-width: 100%;
+
+.banner-container img {
+    width: 100%;
+    position: relative;
+    padding: 0rem 2rem;
+  
 }
 
 .latest-blog {
@@ -168,8 +170,3 @@ button:hover {
     }
 }
     
-@media  screen and  (max-width: 768px){
-    .banner-container {
-        height:auto;
-    }
-}
