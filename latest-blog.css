@@ -55,4 +55,12 @@ nav a:hover {
    .journaling-banner-image {
     width: 100%;
    }
+   .journaling-container{
+    margin-bottom: 10%;
+    margin-top: 10%;
+    font-size: 1.5rem;
+    line-height: 1.5;
+    padding: 0% 10%;
+    text-align: justify;
+   }
 }
