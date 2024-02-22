@@ -50,3 +50,9 @@ nav a:hover {
     padding: 0rem 15rem;
     text-align: justify;
 } 
+
+@media  screen and  (max-width: 768px){
+   .journaling-banner-image {
+    width: 100%;
+   }
+}
