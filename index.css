@@ -115,8 +115,8 @@ button:hover {
 .latest-blog-image {
     width: 75%;
     height: 75%;
-    border-radius: 100px;
     border: 10px solid #063D2A;
+    margin-bottom: 20px;
 }
 
 .about-me-section {
