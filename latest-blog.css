@@ -59,7 +59,8 @@ nav a:hover {
 }
 @media screen and (max-width: 768px){
     .journaling-container p {
-        margin-top: -1em;
+        margin-bottom: 2rem;
+        margin-top: 4rem;
         font-size: 8px;
         line-height: 5%;
         padding: 0rem 10%;
