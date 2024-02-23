@@ -170,3 +170,8 @@ button:hover {
     }
 }
     
+@media  screen and  (max-width: 768px){
+    .about-me-container {
+        margin-top: 20%;
+    }
+}

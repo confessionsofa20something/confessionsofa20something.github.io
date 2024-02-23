@@ -51,13 +51,13 @@ nav a:hover {
     text-align: justify;
 } 
 
-@media screen and (max-width: 600px){
+@media screen and (max-width: 768px){
    .journaling-banner-image {
     width: 100%;
    }
    
 }
-@media screen and (max-width: 600px){
+@media screen and (max-width: 768px){
     .journaling-container p {
         margin-bottom: 2rem;
         margin-top: 4rem;
