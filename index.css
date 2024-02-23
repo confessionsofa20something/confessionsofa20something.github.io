@@ -172,7 +172,7 @@ button:hover {
     
 @media  screen and  (max-width: 768px){
     .about-me-container {
-        padding: 20% 0% 0% 0%;
+        padding: 0% ;
     }
 }
 
