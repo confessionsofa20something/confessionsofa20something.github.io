@@ -42,14 +42,14 @@ nav a:hover {
  object-fit: contain;
 }
 
-/* .journaling-container p {
+.journaling-container p {
     margin-bottom: 2rem;
     margin-top: 4rem;
     font-size: 1.5rem;
     line-height: 1.5;
     padding: 0rem 15rem;
     text-align: justify;
-}  */
+} 
 
 @media screen and (max-width: 600px){
    .journaling-banner-image {
@@ -58,8 +58,10 @@ nav a:hover {
    
 }
 @media screen and (max-width: 600px){
-    .journaling-container  {
-      width: 100%;
-      position: relative;
-        }
+    .journaling-container p {
+        margin-bottom: 2rem;
+        margin-top: 4rem;
+        font-size: 1.5rem;
+        text-align: justify;
+    } 
 }
