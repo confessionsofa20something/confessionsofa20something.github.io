@@ -55,9 +55,12 @@ nav a:hover {
    .journaling-banner-image {
     width: 100%;
    }
-   .journaling-container p {
-   font-size: 8px;
-   text-align: justify;
-   line-height: 1.5;
-   }
+   
+}
+@media screen and (max-width: 600px){
+    .journaling-container p {
+        font-size: 8px;
+        text-align: justify;
+        line-height: 1.5;
+        }
 }
