@@ -57,3 +57,20 @@ nav a:hover {
     /* padding: 0rem 15rem; */
     text-align: justify;
 } 
+
+@media screen and (max-width: 768px){
+    .solo-travel-banner-image {
+     width: 100%;
+    }
+    
+ }
+ @media screen and (max-width: 768px){
+     .solo-travel-middle p {
+         margin-bottom: 2rem;
+         margin-top: 4rem;
+         font-size: 8px;
+         line-height: 150%;
+         padding: 0rem 10%;
+         text-align: justify;
+     } 
+ }
