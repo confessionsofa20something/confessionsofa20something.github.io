@@ -64,13 +64,10 @@ nav a:hover {
     }
     
  }
- /* @media screen and (max-width: 768px){
-     .solo-travel-middle p {
-         margin-bottom: 2rem;
-         margin-top: 4rem;
-         font-size: 8px;
-         line-height: 150%;
-         padding: 0rem 10%;
-         text-align: justify;
-     } 
- } */
+ @media screen and (max-width: 768px){
+    .solo-travel-container {
+        display: grid;
+        grid-template-columns: 20% 45% 20%;;
+        height: auto;
+    }
+ }
