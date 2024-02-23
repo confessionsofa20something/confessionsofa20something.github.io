@@ -188,6 +188,6 @@ button:hover {
 @media  screen and  (max-width: 768px){
     .column-left h1 {
         margin-bottom: 1rem;
-        font-size: 15px;
+        font-size: 18px;
     }
 }
