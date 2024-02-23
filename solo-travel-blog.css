@@ -64,7 +64,7 @@ nav a:hover {
     }
     
  }
- @media screen and (max-width: 768px){
+ /* @media screen and (max-width: 768px){
      .solo-travel-middle p {
          margin-bottom: 2rem;
          margin-top: 4rem;
@@ -73,4 +73,4 @@ nav a:hover {
          padding: 0rem 10%;
          text-align: justify;
      } 
- }
+ } */
