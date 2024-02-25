@@ -65,7 +65,7 @@ nav a:hover {
  @media screen and (max-width: 768px){
     .solo-travel-container {
         display: grid;
-        grid-template-columns: 15% 60% 15%;
+        grid-template-columns: 15% 65% 10%;
         height: auto;
     }
  }
