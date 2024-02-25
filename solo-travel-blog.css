@@ -46,7 +46,6 @@ nav a:hover {
     display: grid;
     grid-template-columns: 1fr 4fr 1fr;
     height: 95vh;
-    /* padding: 0rem calc((100vw - 1300px)/2); */
 }
 
 .solo-travel-middle p {
@@ -54,7 +53,6 @@ nav a:hover {
     margin-top: 4rem;
     font-size: 1.5rem;
     line-height: 1.5;
-    /* padding: 0rem 15rem; */
     text-align: justify;
 } 
 
@@ -70,6 +68,17 @@ nav a:hover {
         grid-template-columns: 15% 60% 15%;
         height: auto;
     }
+ }
+
+ @media screen and (max-width: 768px){
+    .solo-travel-middle p {
+        margin-bottom: 2rem;
+        margin-top: 0rem;
+        font-size: 8px;
+        line-height: 150%;
+        text-align: justify;
+    } 
+    
  }
 
 
