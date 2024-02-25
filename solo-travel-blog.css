@@ -76,11 +76,16 @@ nav a:hover {
   @media screen and (max-width: 768px){
     .solo-travel-right img {
         transform: rotate(-0.25turn);
+        width: 100%;
+        height: auto;
     }
  }
 
  @media screen and (max-width: 768px){
     .solo-travel-left img {
         transform: rotate(-0.25turn);
+        width: 100%;
+        height: auto;
     }
  }
+
