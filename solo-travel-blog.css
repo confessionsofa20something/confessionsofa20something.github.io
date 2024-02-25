@@ -67,23 +67,15 @@ nav a:hover {
  @media screen and (max-width: 768px){
     .solo-travel-container {
         display: grid;
-        grid-template-columns: 10% 70% 10%;
+        grid-template-columns: 100%;
         height: auto;
     }
  }
- @media screen and (max-width: 768px){
-    .solo-travel-middle p {
-        margin-bottom: 2rem;
-        margin-top: 4rem;
-        font-size: 8px;
-        line-height: 150%;
-        padding: 0rem 10%;
-        text-align: justify;
-    } 
-}
+
 
   @media screen and (max-width: 768px){
     .solo-travel-right img {
+        transform: rotate(-0.25turn);
         width: 100%;
         height: auto;
     }
@@ -91,6 +83,7 @@ nav a:hover {
 
  @media screen and (max-width: 768px){
     .solo-travel-left img {
+        transform: rotate(-0.25turn);
         width: 100%;
         height: auto;
     }
